@@ -65,10 +65,10 @@
     },
     "repository": {
          "type": "git",
-         "url": 
+         "url": "https://github.com/Cytrak/Cyt"
     },
     "bugs": {
-         "url":
+         "url": "https://github.com/Cytrak/Cyt"
     },
-  "homepage": 
+  "homepage": "https://github.com/Cytrak/Cyt"
 }
